@@ -1,4 +1,4 @@
-![logo](./public/sagitarius.png)
+![logo](./public/sagitarius_downscaled.png)
 
 # CanSat
 Software for our CanSat
